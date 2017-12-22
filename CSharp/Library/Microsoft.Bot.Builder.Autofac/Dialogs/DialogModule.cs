@@ -454,4 +454,5 @@ namespace Microsoft.Bot.Builder.Dialogs.Internals
             scope.Resolve<Func<IDialog<object>>>(TypedParameter.From(MakeRoot));
         }
     }
+	//Comment on Master in parallel to release 1.1
 }
